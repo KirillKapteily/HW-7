@@ -1,0 +1,9 @@
+:root{
+    /*light theme*/
+    --link-color: red;
+}
+
+.menu-link{
+    color: var(--link-color);
+    font-size: 24px;
+}
