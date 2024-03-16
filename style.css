@@ -3,7 +3,8 @@
     --link-color: red;
 }
 
-.menu-link{
+a[href^="https"]
+{
     color: var(--link-color);
     font-size: 24px;
 }
